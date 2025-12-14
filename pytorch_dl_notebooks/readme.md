@@ -1,0 +1,4 @@
+- 00-03 -> fundamentals
+- 04 -> ann on fashion mnist on cpu 
+- 05 -> ann on fashion mnist on gpu. <- overfit
+- 06 -> optimizing techniques to reduce overfitting
