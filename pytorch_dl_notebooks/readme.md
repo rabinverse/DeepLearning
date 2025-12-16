@@ -2,3 +2,9 @@
 - 04 -> ann on fashion mnist on cpu 
 - 05 -> ann on fashion mnist on gpu. <- overfit
 - 06 -> optimizing techniques to reduce overfitting
+- 07 -> optuna on ann
+- 08 -> cnn on fashion mnist
+- 09 -> optun on cnn
+- 10 -> transfer learning -vgg16
+- 11 -> rnn question answering model
+- 12 -> lstm next word predictor
